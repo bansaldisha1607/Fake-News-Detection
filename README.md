@@ -6,7 +6,7 @@ It can spread misinformation, create panic, and influence public opionion in wro
 
 This project focuses on the problem and uses *Machine Learning* and **Natural Language Processor** to detect if a news article is false or not.
 
-The model takes the *tesxt of a news article* as it's input and predicts its label.
+The model takes the *text of a news article* as it's input and predicts its label.
 
 ---
 #Objectives
